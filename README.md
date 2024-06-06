@@ -1,4 +1,4 @@
 # newrepo
 this is out first repository
-<hr>
+<br>
 Author - Pushpendra Purve
